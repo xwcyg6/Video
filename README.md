@@ -1,3 +1,2 @@
-# 
-Video-sy.github.io
+# Video-sy.github.io
 这是一个视频压缩工具，本地浏览器无需上传服务器，放心使用。
